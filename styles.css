@@ -6,27 +6,24 @@ div{
     font-size:clamp(20px,5vw,50px)
 }
 #left {
-    background-color: #002525;
-    padding: 20px;
-    float: left;
-    width: 20%;
-    color:#018d8d;
-  }
-  
-#middle {
-    background-color: #273a00;
-    padding: 20px;
-    float: left;
-    width: 60%; 
-    color:#92db01;
-  }
-  
-#right {
-    background-color: black;
+    background-color: #2196F3;
     padding: 20px;
     float: left;
     width: 20%; 
-    color:#003f3f
+  }
+  
+#middle {
+    background-color: #f1f1f1;
+    padding: 20px;
+    float: left;
+    width: 60%; 
+  }
+  
+#right {
+    background-color: #04AA6D;
+    padding: 20px;
+    float: left;
+    width: 20%; 
   }
 #header{
     background-color: black;
@@ -37,15 +34,14 @@ div{
     text-align: center;
     line-height: 75px;
     font-size: clamp(20px, 5vw, 50px);
-    background-color:#3e0000;
-    height: 80px
+    background-color:cadetblue;
 }
 p{
     margin: 10px;
 }
 a{
     margin: 3%;
-    color:#eb0202;
+    color:whitesmoke;
     text-decoration: none;
     line-height: 300%;
 }
