@@ -39,14 +39,18 @@ div{
 p{
     margin: 10px;
 }
+
 a{
     margin: 3%;
     color:whitesmoke;
     text-decoration: none;
     line-height: 300%;
+    font-family: "Lobster", serif;
+    border: 3px solid whitesmoke;
+    box-shadow: 3px 4px black;
 }
 
-@media screen and (max-width:800px){
+@media screen and (max-width:600px){
     #left,#middle,#right,#menu{
         width:100%;
     }
